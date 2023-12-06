@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+    margin-top: 80px;
+    font-size: 45px;
+    color: brown;
+}
+.center{
+    text-align: center;
+    border: 1px solid rgb(146, 5, 5);
+    margin-left: 430px;
+    margin-right: 430px; 
+    font-size: 20px;
+
+}
+h2{
+    margin-left: 100px;
+    color: brown;
+    font-size: 30px;
+}
+#title{
+    margin-left: 100px;
+    
+}
+.text{
+    margin-left: 100px;
+    padding-bottom: 100px;
+    background-color: chocolate;
+    text-decoration: none;
+}
+.lorem{
+    margin-left: 100px;
+}
